@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I make great proejcts using C#, PHP, Python, HTML/CSS, and JavaScript. Currently learning about AWS and Go. I also love writing and well made movies. Check out my blog and my twitter to contact me!
+
 <!--
 **georgeoffley/georgeoffley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
