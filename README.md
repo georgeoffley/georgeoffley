@@ -1,6 +1,6 @@
-# Hi there 👋
+# Hi everyone, my name is George 👋
 
-I make great proejcts using Python, Go, AWS, C#, PHP, and JavaScript. Currently learning about graphics and C++. I also love writing and movies. [Check out my blog](https://georgeoffley.com/) and my twitter to contact me!
+I make projects using Python, Go, AWS, C#, PHP, and JavaScript. Currently learning about graphics and C++. I also love writing and movies. [Check out my blog](https://georgeoffley.com/) and my twitter to contact me!
 
 - 🌱 I’m currently learning graphics programming, C++, React, and AWS stuff!
 - 😄 Pronouns: He/Him
