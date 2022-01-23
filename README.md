@@ -18,6 +18,11 @@ I make great proejcts using Python, Go, AWS, C#, PHP, and JavaScript. Currently 
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Shenanigans with Shaders](https://dev.to/georgeoffley/shenanigans-with-shaders-3i97)
+- [Messaging and Madness: Sending Messages with AMQP and Amazon MQ](https://dev.to/aws-builders/messaging-and-madness-sending-messages-with-amqp-and-amazon-mq-2m9b)
+- [Health Checking S3 and DynamoDB in AWS](https://dev.to/aws-builders/health-checking-s3-and-dynamodb-in-aws-3ocl)
+- [Encrypting Your Environment Variables in Lambda with KMS](https://dev.to/georgeoffley/encrypting-your-environment-variables-in-lambda-with-kms-2l0h)
+- [Working with Context in Go](https://dev.to/georgeoffley/working-with-context-in-go-75e)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://georgeoffley.com/)
