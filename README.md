@@ -46,6 +46,10 @@ I make great proejcts using Python, Go, AWS, C#, PHP, and JavaScript. Currently 
 
 ### **➡️ [more blog posts...](https://georgeoffley.com/)**
 
+<br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=georgeoffley&show_icons=true&count_private=true)
+
 <!--
 Link Definitions
 -->
