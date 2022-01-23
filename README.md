@@ -7,8 +7,6 @@ I am a software engineer with years of experience. I make projects using Python,
 
 ## **Check out My [GraphicsPortfolio](https://github.com/georgeoffley/GraphicsPortfolio)**
 
-<br>
-
 ## **Connect with me**
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
