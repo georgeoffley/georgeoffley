@@ -1,13 +1,15 @@
-### Hi there 👋
+# Hi there 👋
 
 I make great proejcts using Python, Go, AWS, C#, PHP, and JavaScript. Currently learning about graphics and C++. I also love writing and movies. [Check out my blog](https://georgeoffley.com/) and my twitter to contact me!
-
-### Check out My [GraphicsPortfolio](https://github.com/georgeoffley/GraphicsPortfolio)
 
 - 🌱 I’m currently learning graphics programming, C++, React, and AWS stuff!
 - 😄 Pronouns: He/Him
 
-### Connect with me:
+## **Check out My [GraphicsPortfolio](https://github.com/georgeoffley/GraphicsPortfolio)**
+
+<br>
+
+## **Connect with me**
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -15,7 +17,7 @@ I make great proejcts using Python, Go, AWS, C#, PHP, and JavaScript. Currently 
 
 <br/>
 
-### Languages and Tools:
+## **Languages and Tools**
 
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" />][non-link]
 [<img align="left" alt="Go" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/go.svg" />][non-link]
@@ -31,8 +33,9 @@ I make great proejcts using Python, Go, AWS, C#, PHP, and JavaScript. Currently 
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][non-link]
 
 <br/>
+<br>
 
-### 📕 Latest Blog Posts
+## **📕 Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
 - [Shenanigans with Shaders](https://dev.to/georgeoffley/shenanigans-with-shaders-3i97)
 - [Messaging and Madness: Sending Messages with AMQP and Amazon MQ](https://dev.to/aws-builders/messaging-and-madness-sending-messages-with-amqp-and-amazon-mq-2m9b)
@@ -41,7 +44,7 @@ I make great proejcts using Python, Go, AWS, C#, PHP, and JavaScript. Currently 
 - [Working with Context in Go](https://dev.to/georgeoffley/working-with-context-in-go-75e)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://georgeoffley.com/)
+### **➡️ [more blog posts...](https://georgeoffley.com/)**
 
 <!--
 Link Definitions
