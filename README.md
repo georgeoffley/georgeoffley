@@ -2,10 +2,16 @@
 
 I make great proejcts using Python, Go, AWS, C#, PHP, and JavaScript. Currently learning about graphics and C++. I also love writing and movies. [Check out my blog](https://georgeoffley.com/) and my twitter to contact me!
 
+<br/>
+<br/>
+
 ### Check out My [GraphicsPortfolio](https://github.com/georgeoffley/GraphicsPortfolio)
 
 - 🌱 I’m currently learning graphics programming, C++, React, and AWS stuff!
 - 😄 Pronouns: He/Him
+
+<br/>
+<br/>
 
 ### Connect with me:
 
