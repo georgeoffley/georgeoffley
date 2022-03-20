@@ -36,11 +36,11 @@ I am a software engineer with years of experience. I make projects using Python,
 
 ## **📕 Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Table Resource VS Client in AWS](https://dev.to/aws-builders/table-resource-vs-client-in-aws-418)
 - [Modules in React](https://dev.to/georgeoffley/modules-in-react-274d)
 - [Dockerizing System Tests With Selenium](https://dev.to/georgeoffley/dockerizing-system-tests-with-selenium-5dn0)
 - [Implementing Routing in React](https://dev.to/georgeoffley/implementing-routing-in-react-3ab8)
 - [Using Amazon API Gateway with Lambda](https://dev.to/aws-builders/using-amazon-api-gateway-with-lambda-36nb)
-- [Shenanigans with Shaders](https://dev.to/georgeoffley/shenanigans-with-shaders-3i97)
 <!-- BLOG-POST-LIST:END -->
 
 ### **➡️ [more blog posts...](https://georgeoffley.com/)**
