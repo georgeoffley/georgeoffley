@@ -9,9 +9,9 @@ I am a software engineer with years of experience. I make projects using Python,
 
 ## **Connect with me**
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
+[<img align="left" alt="Website | georgeoffley.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Twitter | https://twitter.com/georgeoffley" width="22px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/twitter.svg" />][twitter]
+[<img align="left" alt="LinkedIn | https://www.linkedin.com/in/georgeoffley/" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
 
 <br/>
 
